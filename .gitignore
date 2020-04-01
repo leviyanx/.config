@@ -1,0 +1,10 @@
+# ignore everything
+/*
+/*/
+
+# but these:
+!/i3/
+!/i3status/
+!/alacritty/
+!/yay/
+!/.gitignore
