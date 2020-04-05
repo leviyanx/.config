@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Brackets Light Pro",
+    "editor.fontFamily": "JetBrains Mono, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 18,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.iconTheme": "vscode-great-icons",
+
+    "editor.wordWrap": "on",
+}

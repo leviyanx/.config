@@ -3,9 +3,43 @@
 /*/
 
 # but these:
+
+!/alacritty/
+# vscode user setting
+!/Code
+/Code/*
+!/Code/User
+/Code/User/*
+!/Code/User/settings.json
+# fcitx
+!/fcitx
+/fcitx/*
+!/fcitx/config
+!/fcitx/profile
+# fonts.conf
+!/fontconfig/
+# i3
 !/i3/
 !/i3status/
-!/alacritty/
+
+# pcmanfm
+!/pcmanfm/
+# polybar
+!/polybar/
+/polybar/config-backup
+# ranger
+!/ranger/
+# rofi
+!/rofi/
+
+# variety
+
+# yay
 !/yay/
+
+# compton
+!compton.conf
+
+
 !/.gitignore
 !/Readme.md
