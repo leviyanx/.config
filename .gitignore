@@ -29,6 +29,7 @@
 /polybar/config-backup
 # ranger
 !/ranger/
+/ranger/plugins
 # rofi
 !/rofi/
 
@@ -37,9 +38,11 @@
 # yay
 !/yay/
 
+# zsh
+!/zsh/
+
 # compton
 !compton.conf
-
 
 !/.gitignore
 !/Readme.md
