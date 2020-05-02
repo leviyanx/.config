@@ -8,6 +8,7 @@ alias gcd1='git clone --depth=1'
 alias gcm='git commit -m'
 alias gs='git status'
 alias gpom='git push origin master'
+alias nv='nvim'
 alias r='ranger'
 alias s='screenfetch'
 
