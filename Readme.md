@@ -3,19 +3,23 @@
 #### Items
 
 
-
+- Code (vscode user settings)
 - alacritty
-- compton 
 - fcitx
-- fonts.conf
+- fontconfig (fonts.conf)
 - i3
 - i3status
-- pcmanfm
-- polybar
+- ~~pcmanfm~~
+- ~~polybar~~
 - ranger
-- rofi
-- variety
-- vscode user setting
+- ~~rofi~~
+- ~~variety~~
 - yay
+- zsh
 
 
+- .Xmodmap
+- .gitignore
+- .xprofile
+- Readme.md
+- compton 
