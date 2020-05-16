@@ -48,3 +48,5 @@
 
 !/.gitignore
 !/Readme.md
+!/.Xmodmap
+!/.xprofile
