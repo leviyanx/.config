@@ -1,7 +1,8 @@
 # My profiles
 
-#### Items
+### Items
 
+#### folder
 
 - Code (vscode user settings)
 - alacritty
@@ -17,9 +18,10 @@
 - yay
 - zsh
 
+#### single file
 
 - .Xmodmap
 - .gitignore
 - .xprofile
 - Readme.md
-- compton 
+- compton.conf 
