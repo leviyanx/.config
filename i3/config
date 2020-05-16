@@ -70,7 +70,7 @@ exec --no-startup-id compton
 # wallpapers software
 # exec --no-startup-id variety
 # set wallpapers
-exec_always --no-startup-id feh --bg-scale ~/Pictures/Wallpapers/spider-man.jpg 
+exec_always --no-startup-id feh --randomize --bg-scale ~/Pictures/Wallpapers/ 
 
 # inputting method
 exec --no-startup-id fcitx
@@ -111,6 +111,9 @@ bindsym $mod+d exec krunner
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+
+# screenshot
+bindsym $mod+p exec spectacle
 
 # change focus
 bindsym $mod+h focus left
