@@ -1,5 +1,6 @@
 # aliases
 alias c='clear'
+alias e='exit'
 alias f='fzf'
 alias h='htop'
 alias ga='git add'
