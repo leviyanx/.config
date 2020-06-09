@@ -30,9 +30,6 @@
 !/i3/
 !/i3status/
 
-# pcmanfm
-# !/pcmanfm/
-
 # ranger
 !/ranger/
 /ranger/plugins
