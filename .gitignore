@@ -33,8 +33,6 @@
 # ranger
 !/ranger/
 /ranger/plugins
-# rofi
-# !/rofi/
 
 # variety
 
