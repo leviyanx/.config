@@ -54,6 +54,9 @@
 # compton
 !compton.conf
 
+# global shortcut
+!kglobalshortcutsrc
+
 !/.gitignore
 !/Readme.md
 !/.Xmodmap
