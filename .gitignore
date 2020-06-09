@@ -33,10 +33,6 @@
 # pcmanfm
 # !/pcmanfm/
 
-# polybar
-# !/polybar/gs
-# /polybar/config-backup
-
 # ranger
 !/ranger/
 /ranger/plugins
