@@ -57,6 +57,9 @@
 # global shortcut
 !kglobalshortcutsrc
 
+# startup script
+!startup.sh
+
 !/.gitignore
 !/Readme.md
 !/.Xmodmap
