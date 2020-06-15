@@ -6,4 +6,11 @@
     "workbench.iconTheme": "vscode-great-icons",
 
     "editor.wordWrap": "on",
+
+    "vim.insertModeKeyBindings": [
+    {
+      "before": ["s", "s"],
+      "after": ["<Esc>"]
+    }
+  ],
 }
