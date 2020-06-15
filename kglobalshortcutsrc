@@ -10,7 +10,7 @@ _launch=none,none,Launch Alacritty
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
-_k_friendly_name=KDE Daemon
+_k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
@@ -20,7 +20,7 @@ _k_friendly_name=Accessibility
 Disable Touchpad=Touchpad Off,Touchpad Off,Disable Touchpad
 Enable Touchpad=Touchpad On,Touchpad On,Enable Touchpad
 Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Toggle Touchpad
-_k_friendly_name=KDE Daemon
+_k_friendly_name=Touchpad
 
 [kded5]
 Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
@@ -52,7 +52,7 @@ Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Loc
 Log Out=Ctrl+Alt+Del,none,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
-_k_friendly_name=ksmserver
+_k_friendly_name=Session Management
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
@@ -101,7 +101,7 @@ Switch to Desktop 2=Alt+2,Ctrl+F2,Switch to Desktop 2
 Switch to Desktop 20=none,none,Switch to Desktop 20
 Switch to Desktop 3=Alt+3,Ctrl+F3,Switch to Desktop 3
 Switch to Desktop 4=Alt+4,Ctrl+F4,Switch to Desktop 4
-Switch to Desktop 5=none,none,Switch to Desktop 5
+Switch to Desktop 5=Alt+5,none,Switch to Desktop 5
 Switch to Desktop 6=none,none,Switch to Desktop 6
 Switch to Desktop 7=none,none,Switch to Desktop 7
 Switch to Desktop 8=none,none,Switch to Desktop 8
@@ -211,7 +211,7 @@ Window to Desktop 2=Alt+@,none,Window to Desktop 2
 Window to Desktop 20=none,none,Window to Desktop 20
 Window to Desktop 3=Alt+#,none,Window to Desktop 3
 Window to Desktop 4=Alt+$,none,Window to Desktop 4
-Window to Desktop 5=none,none,Window to Desktop 5
+Window to Desktop 5=Alt+%,none,Window to Desktop 5
 Window to Desktop 6=none,none,Window to Desktop 6
 Window to Desktop 7=none,none,Window to Desktop 7
 Window to Desktop 8=none,none,Window to Desktop 8
@@ -322,6 +322,7 @@ Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Decre
 Hibernate=Hibernate,Hibernate,Hibernate
 Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Increase Keyboard Brightness
 Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Increase Screen Brightness
+PowerDown=Power Down,Power Down,Power Down
 PowerOff=Power Off,Power Off,Power Off
 Sleep=Sleep,Sleep,Suspend
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Keyboard Backlight
@@ -369,3 +370,7 @@ edit_clipboard=none,none,Edit Contents...
 repeat_action=,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show-barcode=none,none,Show Barcode...
 show-on-mouse-pos=none,none,Open Klipper at Mouse Position
+
+[systemsettings.desktop]
+_k_friendly_name=System Settings
+_launch=Tools,Tools,System Settings
