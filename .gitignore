@@ -19,9 +19,9 @@
 !/fcitx/config
 !/fcitx/profile
 # ---
-!/fcitx/conf
-/fcitx/conf/*
-!/fcitx/conf/fcitx-classic-ui.config
+!/fcitx/conf/
+# /fcitx/conf/*
+# !/fcitx/conf/*
 
 # fonts.conf
 !/fontconfig/
