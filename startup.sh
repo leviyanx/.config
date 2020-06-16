@@ -1,4 +1,2 @@
-#!/bin/sh
-
-# ssr
+#!/bin/zsh
 electron-ssr &
