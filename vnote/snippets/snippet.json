@@ -1,0 +1,21 @@
+{
+    "snippets": [
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "note_info",
+            "selection_mark": "$$",
+            "shortcut": "n",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "blog_info",
+            "selection_mark": "$$",
+            "shortcut": "b",
+            "type": 0
+        }
+    ],
+    "version": "1"
+}
