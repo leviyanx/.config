@@ -1,6 +1,5 @@
 {
-    "workbench.colorTheme": "Brackets Light Pro",
-    "editor.fontFamily": "JetBrains Mono, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontFamily": "JetBrains Mono, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontSize": 18,
     "editor.multiCursorModifier": "ctrlCmd",
     "workbench.iconTheme": "vscode-great-icons",
@@ -9,8 +8,11 @@
 
     "vim.insertModeKeyBindings": [
     {
-      "before": ["s", "s"],
+      "before": ["j", "k"],
       "after": ["<Esc>"]
     }
   ],
+  "workbench.colorTheme": "Solarized Dark+",
+  "vscode-neovim.neovimPath": "/usr/bin/nvim",
+  "vscode-neovim.neovimInitPath": "~/.config/nvim/init.vim",
 }
