@@ -2,7 +2,7 @@
   "editor.fontFamily": "JetBrains Mono, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontSize": 18,
     "editor.multiCursorModifier": "ctrlCmd",
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "vscode-seedling-icon-theme",
 
     "editor.wordWrap": "on",
 
@@ -13,6 +13,15 @@
     }
   ],
   "workbench.colorTheme": "Solarized Dark+",
-  "vscode-neovim.neovimPath": "/usr/bin/nvim",
-  "vscode-neovim.neovimInitPath": "~/.config/nvim/init.vim",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.home": "/opt/jdk/jdk1.8.0_251/",
+  "java.semanticHighlighting.enabled": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.requirements.JDK11Warning": false,
 }
