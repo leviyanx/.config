@@ -11,4 +11,10 @@ alias nv='nvim'
 alias r='ranger'
 alias s='screenfetch'
 
-
+# onedrive
+alias one='onedrive'
+alias onesd='onedrive --synchronize --download-only'
+alias onesu='onedrive --synchronize --upload-only'
+alias oness='onedrive --synchronize --single-directory'
+alias onesds='onedrive --synchronize --download-only --single-directory'
+alias onesus='onedrive --synchronize --upload-only --single-directory'
