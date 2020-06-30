@@ -36,6 +36,17 @@
 			"    $4",
 			"}"
 		]
+	},
+
+	"class": {
+		"prefix": "pucl",
+		"body": [
+			"public class ${1:classname} {",
+			"    public $1() {",
+			"    }",
+			"    $2",
+			"}",
+		]
 	}
 
 
