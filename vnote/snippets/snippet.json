@@ -3,17 +3,17 @@
         {
             "auto_indent": false,
             "cursor_mark": "@@",
-            "name": "note_info",
+            "name": "blog_info",
             "selection_mark": "$$",
-            "shortcut": "n",
+            "shortcut": "b",
             "type": 0
         },
         {
             "auto_indent": false,
             "cursor_mark": "@@",
-            "name": "blog_info",
+            "name": "date",
             "selection_mark": "$$",
-            "shortcut": "b",
+            "shortcut": "d",
             "type": 0
         }
     ],
