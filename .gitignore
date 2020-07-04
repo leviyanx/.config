@@ -44,6 +44,11 @@
 !/ranger/
 /ranger/plugins
 
+# syncthing
+!/syncthing
+/syncthing/*
+!/syncthing/config.xml
+
 # variety
 
 !/vnote/
