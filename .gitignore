@@ -33,6 +33,13 @@
 !/i3/
 !/i3status/
 
+# onedrive
+!/onedrive
+/onedrive/*
+!/onedrive/.config.backup
+!/onedrive/.config.hash
+!/onedrive/config
+
 # ranger
 !/ranger/
 /ranger/plugins

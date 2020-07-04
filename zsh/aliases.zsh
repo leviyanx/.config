@@ -13,6 +13,7 @@ alias s='screenfetch'
 
 # onedrive
 alias one='onedrive'
+alias ones='onedrive --synchronize'
 alias onesd='onedrive --synchronize --download-only'
 alias onesu='onedrive --synchronize --upload-only'
 alias oness='onedrive --synchronize --single-directory'
