@@ -2,56 +2,39 @@
 
 ## Items
 
-### folder
+#### folder
 
-editor
-- Code (vscode user settings)
-
-terminal
-- alacritty
-
-input method
-- fcitx
-
-font
-- fontconfig (fonts.conf)
-
-window manager
-- i3
-
-status bar
-- i3status
-- ~~polybar~~
-
-file manager
-- ~~pcmanfm~~
-- ranger
-
-application launcher
-- ~~rofi~~
+| class                | folder      | describe                                    |
+| -------------------- | ----------- | ------------------------------------------- |
+| editor               | Code        | (vscode user settings)                      |
+|                      | vnote       | markdown editor with vim.                   |
+| terminal             | alacritty   |                                             |
+| input method         | fcitx       |                                             |
+| font                 | fontconfig  | (fonts.conf)                                |
+| window manager       | i3          | i3wm                                        |
+| status bar           | i3status    | status bar for i3wm                         |
+|                      | ~~polybar~~ |                                             |
+| file manager         | ~~pcmanfm~~ |                                             |
+|                      | ranger      | useful tool                                 |
+| application launcher | ~~rofi~~    |                                             |
+| wallpaper            | ~~variety~~ | (don't need config)                         |
+| package manager      | yay         |                                             |
+| script language      | zsh         |                                             |
+| cloud store          | onedrive    |                                             |
+| sync tool            | syncthing   | scuriety, without third-party cloud server. |
+|                      |             |                                             |
 
 
-- ~~variety~~
 
-package manager
-- yay
+#### single file
 
-script language
-- zsh
-
-### single file
-
-#### git 
-- .gitignore
-- Readme.md
-
-#### basic settings
-- .xprofile
-- .Xmodmap
-- kglobalshortcutsrc (kde/plasma)
-- startup.sh
-
-#### software settings
-
-blur
-- compton.conf 
+|class|single file|describe|
+|-|-|-|
+| git                  | .gitignore                      |                        |
+|                      | Readme.md                       |                        |
+| basic settings       | .xprofile                       |                        |
+|                      | .Xmodmap                        | keymap setting |
+|                      | kglobalshortcutsrc | (kde/plasma) shortcut setting |
+|                      | startup.sh                      | script for auto-startup |
+| blur | compton.conf                    |                    |
+|                      |                                 |                        |
