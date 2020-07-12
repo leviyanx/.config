@@ -1,6 +1,6 @@
 ---
 title:
-date:%datetime%
+date: %datetime%
 updated: %datetime%
 categories:
 tags:
