@@ -6,14 +6,6 @@
 
 !/alacritty/
 
-# vscode user setting
-!/Code
-/Code/*
-!/Code/User
-/Code/User/*
-!/Code/User/snippets/
-!/Code/User/settings.json
-!/Code/User/keybindings.json
 
 
 # fcitx
@@ -44,12 +36,6 @@
 !/ranger/
 /ranger/plugins
 
-# syncthing
-!/syncthing
-/syncthing/*
-!/syncthing/config.xml
-
-# variety
 
 !/vnote/
 session.ini
