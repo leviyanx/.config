@@ -2,44 +2,7 @@
 /*
 /*/
 
-# but these:
-
-!/alacritty/
-
-
-
-# fcitx
-!/fcitx
-/fcitx/*
-!/fcitx/config
-!/fcitx/profile
-# ---
-!/fcitx/conf/
-# /fcitx/conf/*
-# !/fcitx/conf/*
-
-# fonts.conf
-!/fontconfig/
-
-# i3
-!/i3/
-!/i3status/
-
-# onedrive
-!/onedrive
-/onedrive/*
-!/onedrive/.config.backup
-!/onedrive/.config.hash
-!/onedrive/config
-
-# ranger
-!/ranger/
-/ranger/plugins
-
-
-!/vnote/
-session.ini
-vnote.log
+## but these:
 
 # yay
 !/yay/
@@ -47,13 +10,6 @@ vnote.log
 # zsh
 !/zsh/
 
-# compton
-!compton.conf
-
-# global shortcut
-!kglobalshortcutsrc
-
 !/.gitignore
 !/Readme.md
 !/.Xmodmap
-!/.xprofile
