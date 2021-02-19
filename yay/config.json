@@ -1,7 +1,7 @@
 {
 	"aururl": "https://aur.tuna.tsinghua.edu.cn",
-	"buildDir": "$HOME/.cache/yay",
-	"absdir": "$HOME/.cache/yay/abs",
+	"buildDir": "/home/leviyan/.cache/yay",
+	"absdir": "/home/leviyan/.cache/yay/abs",
 	"editor": "",
 	"editorflags": "",
 	"makepkgbin": "makepkg",
@@ -10,7 +10,6 @@
 	"pacmanconf": "/etc/pacman.conf",
 	"redownload": "no",
 	"rebuild": "no",
-	"batchinstall": false,
 	"answerclean": "",
 	"answerdiff": "",
 	"answeredit": "",
@@ -39,5 +38,6 @@
 	"diffmenu": true,
 	"editmenu": false,
 	"combinedupgrade": false,
-	"useask": false
+	"useask": false,
+	"batchinstall": false
 }
